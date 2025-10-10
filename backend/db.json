@@ -1,15 +1,22 @@
 {
   "opinions": [
     {
+      "id": 1760024303802,
+      "votes": 1,
+      "userName": "Blexyn",
+      "title": "My Love",
+      "body": "Roses are red \nViolets are blue \nSiri!! Play \"Love is Beautiful\""
+    },
+    {
       "id": 1760000372266,
-      "votes": 4,
+      "votes": 2,
       "userName": "Vecna",
       "title": "Stranger Things S5",
       "body": "I can't wait for the new Season of Stranger Things"
     },
     {
       "id": 1759998180819,
-      "votes": 0,
+      "votes": 1,
       "userName": "pilgrim",
       "title": "React is Adabtable",
       "body": "I really enjoy Learning React , Let Me know how it goes for you"
@@ -19,7 +26,7 @@
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
       "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
-      "votes": 0
+      "votes": -1
     },
     {
       "id": 2,
